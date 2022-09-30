@@ -1,6 +1,8 @@
 # Build-Real-Estate-Price-Prediction-Model-with-NLP-and-FastAPI
 
 
+Data File Link: https://drive.google.com/file/d/1tNav85rR-YVASJqAsVooaQGrkUKEXTMf/view?usp=sharing
+
 Aim
 
 To predict the price range of a new listed property based on attributes like area, apartment type,
