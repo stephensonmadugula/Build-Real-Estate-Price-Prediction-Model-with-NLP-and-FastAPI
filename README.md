@@ -20,50 +20,50 @@ Libraries:  pandas, numpy, scipy, matplotlib, seaborn, sklearn, nltk, statsmodel
 Approach
 
 1. Data Reading
-2. 
+
 3. Data Preprocessing
-4. 
-  Categorical Data Cleaning
+ 
+    Categorical Data Cleaning
   
-  Continuous Data Cleaning
+    Continuous Data Cleaning
   
-  Using Regex Library
+    Using Regex Library
   
-  Univariate Data Analysis
+    Univariate Data Analysis
   
-  Multivariate Data Analysis
+    Multivariate Data Analysis
   
-  Outlier Treatment
+    Outlier Treatment
   
-  Feature Extraction
+    Feature Extraction
   
-  Text Data Processing
+    Text Data Processing
   
-  Parts of Speech Tagging
+    Parts of Speech Tagging
   
-  Count Vectorization and N-grams
+    Count Vectorization and N-grams
   
 3. ML Model Building
-4. 
-  Linear Regression
+ 
+    Linear Regression
   
-  Confidence Interval
+    Confidence Interval
   
-  Regularization
+    Regularization
   
-  Ridge Regression
+    Ridge Regression
   
-  Lasso Regression
+    Lasso Regression
   
-  Voting Regressor
+    Voting Regressor
   
 4. Model Deployment
-5. 
-  APIs
+ 
+    APIs
   
-  Web Application Development using FastAPI
+    Web Application Development using FastAPI
   
-  Heroku Deployment
+    Heroku Deployment
   
-  Model Inference Pipeline
+    Model Inference Pipeline
   
